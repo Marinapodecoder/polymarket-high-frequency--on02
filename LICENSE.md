@@ -1,4 +1,4 @@
-# 
+# exclusive Polymarket Module | trade-sniping + backtesting offers the most advanced Polymarket module, with trade-sniping and backtesting. Ideal for professional traders and
 
 
 
